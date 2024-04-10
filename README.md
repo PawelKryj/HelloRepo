@@ -1,9 +1,7 @@
-
 # Day 13 - Exploratory Data Analysis Project
 # 10.04.2024
 # Meme of the day
-(https://datasciencedojo.com/wp-content/uploads/43.jpg)
-
+(https://www.siliconrepublic.com/wp-content/uploads/2014/12/img/data-scientist-meme-0.jpg)
 ---
 ##  __Schedule__
 
@@ -66,8 +64,6 @@
 - working with data
 - creating insights
 - creating recommendations
-
-
 
 ## __Daily standup__
 
