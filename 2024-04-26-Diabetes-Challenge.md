@@ -75,8 +75,11 @@ During the task, we need to deal with data corruption and we also need to addres
 To handle data corruption or missing values in data:
 
 -Identify where they occur.
+
 -Fill them with appropriate replacements like mean, median, or mode, or delete the rows/columns.
+
 -Use predictive methods or domain knowledge when necessary.
+
 -If necessary, mark missing values to separate them from actual data.
 
 ## Daily standup
