@@ -1,7 +1,7 @@
 # Day 25 - Diabetes Challange
 # 26.04.2024
 # Meme of the day
-![Data Fun](../../Downloads/FRhzEK1X0AMeAJi.jpeg)
+![Data Fun](FRhzEK1X0AMeAJi.jpegg)
 ---
 ##  Schedule
 
