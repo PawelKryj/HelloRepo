@@ -51,13 +51,21 @@ Our task was is to analyze the Kaggle "Pima Indians Diabetes Database" and  pred
 During the task:
 
 -Data was loaded from the diabetes schema in the database using the .env file provided.
+
 -The database was explored to understand the relationships between tables (1-1, 1-N, N-M).
+
 -The data was examined to determine its relevance and coherence.
+
 -Appropriate JOINs were identified based on the relationships between tables.
+
 -Two classification algorithms were applied to predict diabetes patients.
+
 -Evaluation metrics were discussed before modeling to choose the most suitable one.
+
 -GridSearchCV or RandomizedSearchCV was utilized to tune hyperparameters.
+
 -As an optional step, sklearn's Pipeline module was explored to encapsulate all steps into a pipeline.
+
 -Additionally, the data was split into training and test sets to analyze the final model's performance on unseen data. Scaling was considered to potentially enhance model performance.
 
 ## Group Challenge
